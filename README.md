@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there! 👋 I'm Shakhida Karlybaeva
 
-<!--
-**ShakhiKarlybaeva/ShakhiKarlybaeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 Master's Student in Veterinary Medicine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Startup Founder
+
+💡 Passionate about Artificial Intelligence, Agriculture and Sustainability
+
+📍 Nukus, Uzbekistan
+
+---
+
+## 🌟 Current Projects
+
+🐑 EcoPots – Biodegradable seedling pots made from sheep wool
+
+📡 NexSense AI – Smart livestock monitoring system
+
+🩺 VetLens AI – AI-powered veterinary assistant
+
+## 🔬 Research Interests
+
+• Veterinary Medicine
+
+• Parasitology
+
+• Artificial Intelligence
+
+• Smart Agriculture
+
+• Sustainability
+
+---
+
+## 📫 Contact
+
+📧 shakhikarlybaeva@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
